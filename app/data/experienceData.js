@@ -1,17 +1,31 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'realtor.com',
-        jobtitle: 'Tech Lead',
-        startYear: '2018',
+        company: 'Meta',
+        jobtitle: 'Full Stack Programmer (Contract)',
+        startYear: '2024',
         endYear: 'Current',
+        resps:["Build and maintain modular UI components and pages using React.js, TypeScript, Relay, and GraphQL, while ensuring alignment with internal design systems and accessibility standards for responsive, intuitive experiences.",
+            "Provided technical leadership and mentorship, promoting team collaboration, conducting code reviews, and cultivating best practices in full-stack engineering across distributed teams.",
+            "Work closely with product and design teams to deliver user-centric, high-impact solutions"
+        ],
+        code: '',
+        demo: 'https://www.realtor.com/community-detail/Kildeer-Crossings_21653-N-Ashley-Street_Kildeer_IL_60047_Q717000080224',
+        image: "https://github.com/sreerag-rajan/historythroughmovies/raw/master/htclandingpage.png"
+    },
+    {
+        id: 2,
+        company: 'realtor.com',
+        jobtitle: 'Tech Lead (Contract)',
+        startYear: '2018',
+        endYear: '2024',
         resps:["Managing and executing projects with a full responsibility of delivery, Beginning from a project/initiative capacity planning, dependency analysis, project plan." ,
         "Involve in feature development by writing self-documenting code using React JS, Next JS, styled components, hooks, dynamic components, JSX , review pull requests, and solicit feedback from designers and PMs.",
         "Develop a React app with server side rendering and with SPA transitions in Node/Next JS, translate designers work in to well-constructed JSX/SASS and Implement responsive , accessible , SEO complaint pages.",
         "Implement various backend APIs using AWS lambda(NodeJS) and serverless technology including making it available to public securely through APIGateway"],
     },
     {
-        id: 2,
+        id: 3,
         company: 'Facebook',
         jobtitle: 'Sr Engineer',
         startYear: '2015',
@@ -21,7 +35,7 @@ export const experienceData = [
         "Active participation and contribution in all client project reviews as well as internal service reviews; focus on the overall delivery quality and timely execution of the project being handled."],
     },
     {
-        id: 3,
+        id: 4,
         company: 'Schneider National',
         jobtitle: 'Sr Applications Engineer',
         startYear: '2010',
@@ -31,7 +45,7 @@ export const experienceData = [
         "Involved in different phases of testing right from QA Hand Offs, fixing issues and Interacted with Business Analyst on new features."],
     },
     {
-        id: 4,
+        id: 5,
         company: 'Oracle-India',
         jobtitle: 'Applications Engineer',
         startYear: '2004',

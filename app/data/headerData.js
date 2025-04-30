@@ -2,9 +2,10 @@
 
 export const headerData = {
     name: 'Murali Chepuri',
-    title: "Web.dev | Tech Lead",
-    description:["Results-driven and collaborative Software Engineering Manager with 19 years of experience in leading and delivering high-quality software solutions. Adept at managing cross-functional teams and driving engineering excellence to achieve business goals. Skilled in full project lifecycle management, agile methodologies, and technical leadership. ",
-    "Developed and maintained software applications, utilizing React JS, Next.JS, Node, AWS, Serverless, Jest, Enzyme, and following best coding practices."],
+    title: "Web.dev | GenAI-Enthusiast",
+    description:["Seasoned Full Stack Developer with 21+ years of experience in building scalable, high-performance web applications using Next.js, React, Node.js, GraphQL, Relay, and TypeScript. Proven success architecting and delivering robust internal tools and public-facing platforms for major clients like Meta and Realtor.com. ",
+        "Skilled in developing modular, reusable UI components, enforcing secure API architectures, and optimizing performance in high-availability environments.",
+        "Effective team collaborator with a strong emphasis on accessibility, modern DevOps practices, and mentoring cross-functional teams—while working closely with product and design teams to deliver user-centric, high-impact solutions"],
     image: 'https://babycatcher-static.s3.ap-south-1.amazonaws.com/imgs/Murali-Profile.jpeg',
     resumePdf: ''
 }

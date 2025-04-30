@@ -11,9 +11,9 @@ import eight from '../assets/svg/projects/eight.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'realtor.com',
-        duration: "2018- Current",
-        projectDesc: 'Community Detail Page',
+        projectName: 'Meta - Contractor',
+        duration: "2024- Current",
+        projectDesc: 'Internal Tools',
         resps:["Over 20 years of experience in software engineering with over 5 years of expertise in React JS and Node JS, CSS, Core Web Vitals, Accessibility and Responsiveness concepts of web development",
         "2-Over 20 years of experience in software engineering with over 5 years of expertise in React JS and Node JS, CSS, Core Web Vitals, Accessibility and Responsiveness concepts of web development",
         "3-Over 20 years of experience in software engineering with over 5 years of expertise in React JS and Node JS, CSS, Core Web Vitals, Accessibility and Responsiveness concepts of web development"],
@@ -24,6 +24,19 @@ export const projectsData = [
     },
     {
         id: 2,
+        projectName: 'realtor.com - Contractor',
+        duration: "2018- 2024   ",
+        projectDesc: 'Community Detail Page',
+        resps:["Over 20 years of experience in software engineering with over 5 years of expertise in React JS and Node JS, CSS, Core Web Vitals, Accessibility and Responsiveness concepts of web development",
+        "2-Over 20 years of experience in software engineering with over 5 years of expertise in React JS and Node JS, CSS, Core Web Vitals, Accessibility and Responsiveness concepts of web development",
+        "3-Over 20 years of experience in software engineering with over 5 years of expertise in React JS and Node JS, CSS, Core Web Vitals, Accessibility and Responsiveness concepts of web development"],
+        tags: ['NextJS', 'React' ,'CSS', 'Javascript'],
+        code: '',
+        demo: 'https://www.realtor.com/community-detail/Kildeer-Crossings_21653-N-Ashley-Street_Kildeer_IL_60047_Q717000080224',
+        image: "https://github.com/sreerag-rajan/historythroughmovies/raw/master/htclandingpage.png"
+    },
+    {
+        id: 3,
         projectName: 'Facebook - Contracts',
         duration: "2015-2018",
         resps:["Over 20 years of experience in software engineering with over 5 years of expertise in React JS and Node JS, CSS, Core Web Vitals, Accessibility and Responsiveness concepts of web development" ,
@@ -36,7 +49,7 @@ export const projectsData = [
         image: "https://www.proofhub.com/articles/wp-content/uploads/2023/04/Internal-Communication-in-Project-Management.jpg"
     },
     {
-        id: 3,
+        id: 4,
         projectName: 'Schneider National',
         duration: "2008-2015",
         resps:["Over 20 years of experience in software engineering with over 5 years of expertise in React JS and Node JS, CSS, Core Web Vitals, Accessibility and Responsiveness concepts of web development" ,
@@ -50,7 +63,7 @@ export const projectsData = [
         image: "https://3dwarehouse.sketchup.com/warehouse/v1.0/content/public/8f68efa1-38a3-46dc-8816-6164730c32eb"
     },
     {
-        id: 4,
+        id: 5,
         projectName: 'Oracle Purchasing',
         duration: "204-2007",
         resps:["Over 20 years of experience in software engineering with over 5 years of expertise in React JS and Node JS, CSS, Core Web Vitals, Accessibility and Responsiveness concepts of web development" ,
