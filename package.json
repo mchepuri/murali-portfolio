@@ -2,7 +2,7 @@
   "name": "murali-portfolio",
   "version": "1.0.4",
   "description": "Portfolio application for Murali Chepuri",
-  "main": "app/index.js",
+  "main": "index.js",
   "homepage": "https://mchepuri.github.io/murali-portfolio/",
   "private": false,
   "scripts": {
